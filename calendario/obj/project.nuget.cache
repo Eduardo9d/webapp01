@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "JlBU7xlGDWQ=",
+  "success": false,
+  "projectFilePath": "C:\\AzureBraga\\webapp01\\calendario\\calendario.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Internal.Assets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "projectPath": "C:\\AzureBraga\\webapp01\\calendario\\calendario.csproj",
+      "filePath": "C:\\AzureBraga\\webapp01\\calendario\\calendario.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Internal.Assets",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
